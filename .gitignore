@@ -23,6 +23,9 @@ next-env.d.ts
 # misc
 .DS_Store
 *.pem
+.vs
+package.json
+package-lock.json
 
 # debug
 npm-debug.log*
@@ -42,3 +45,5 @@ yarn-error.log*
 *.tsbuildinfo
 
 sqlite.db
+/package.json
+/package.json
